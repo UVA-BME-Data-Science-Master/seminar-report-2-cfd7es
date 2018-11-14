@@ -1,0 +1,33 @@
+
+Name: Charlie Doany
+
+Speaker's name, title and affiliation: Claudia Monaco MD PhD, Professor of Cardiovascular
+  Inflammation, Kennedy Institute of Rheumatology
+  
+Time and Date: 11 AM, November 14
+
+Seminar Title: Immune Cell Heterogeneity in Atherosclerosis
+
+Summary of Seminar:
+
+  The overall topic of the research she is conducting at Kennedy is to identify the differentiation in immune cells in a state of atherosclerosis (Ath) as compared to healthy tissue. The basis for this is founded in previous research that identified a causative relationship between inflammation and cardiovascular disease. In initiating an immune response from Ath, you observe both an innate immune response in the form of cytokine production, and an adaptive immune response in APC and T cell production. The main target of research in this case is the upregulation of cytokines in human Ath, adn the effect of blocking TLR-2 Ab in inhibiting the production.
+  
+  The first main point of the research involved the dynamic of myeloids in ATH. The role of macrophages in healthy tissue involves maintaining the cells, taking in necessary substances and removing the byproducts. Monocytes are a subset that have the ability to differentiate during different disease states, and little phenotyping research has been conducted compared to larger macrophages.CD68 is a monocyte expressed in all myeloid cells, and single cell genomics of aortic macrophages confirmed that there are four genetic groupings of macrophages, a crucial step in redefining vascular macrophages and monocytes in Ath, which will help determine myeloid cell dynamics.
+  
+  Macrophage functions are specialized, and can be broken down starting with long and short range effects. A clear geography exists that groups the macrophages by function, and this localization is driven by activation sites. An experiment the researchers conducted confirmed that IRF-5 regulates CD11c expression. A knockdown proved that a deficiency in IRF-5, and thus a deficiency in CD11c expression decerased necrotic core formation - a high risk of plaque. Efferocytosis is how necrotic core is formed, so it is hypothesized that IRF-5 controls this process, which is relavent in Ath because it therefore controls plaque rupture incidence. This experiment was done in mice, but was then translated to humans by examining human shoulders of patients, and those with recent cardiac events shwoeed increased CD11c and IRF-5 levels. 
+  
+  The third topic of the seminar was macrophage cellular interactions. In this case CD200 was analyzed and found to enhance monocyte migration capabilities. A lack of CD200 showed to slow down myelopoiesis and monopoiesis, demonstrating CD200's regulating function of monopoiesis, a factor in Ath. A CD200 inhibitor can be used for this purpose, as a way to limit monocyte recruitment and monopoiesis in cases of Ath.
+  
+  I went in to this seminar with limited knowledge of macrophages and Ath in geneneral, but learned a great deal. My main takeaways were that the researchers identified key regualtors of processes that cause inflammation and other Ath symptoms in the form of IRF-5 and CD200, and the next steps appear to be finding inhbitors of these transcription factors so that the processes can be artifically controled as a treatment method.
+  
+  The seminar had no relevance to my group project.
+    
+Questions for speaker:
+
+- You showed evidence of linking the mice data to humans bu observing a similar experiment in the human shoulder - is this indicative of how Ath exists in other human tissues throughout the body?
+
+- how do you plan to use this information to be able to minimize the effects of Ath? Will you attempt to suppress the symptoms, mainly inflammation, or rather do you think this inhibitors have the ability to eliminate the disease state all together?
+
+  
+  
+  
